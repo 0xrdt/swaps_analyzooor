@@ -1,0 +1,3 @@
+plotly
+streamlit
+subgrounds==0.2.0
