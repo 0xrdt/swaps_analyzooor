@@ -23,6 +23,7 @@ st.set_page_config(
  )
 
 st.title("Swaps Analyzooor")
+st.markdown('check our landing page: [analyzooor.notawizard.xyz](http://analyzooor.notawizard.xyz/)')
 
 st.info("Fetching the data may take some time. Please be patient. (it usually takes less than 1 minute)")
 
